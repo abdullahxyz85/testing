@@ -11,21 +11,21 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/MUHAMMAD-AZEEM-AZAM">
-          <img src="https://avatars.githubusercontent.com/u/120501480?v=4" width="100" alt="Muhammad Azeem"/><br>
-          <sub><b>Muhammad Azeem</b></sub>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Meharzain2010">
-          <img src="https://avatars.githubusercontent.com/u/194600882?s=400" width="100" alt="Zia Ur Rehman"/><br>
-          <sub><b>Zia Ur Rehman</b></sub>
+        <a href="https://github.com/Khababakhtar20">
+          <img src="https://avatars.githubusercontent.com/u/191676741?v=4" width="100" alt="Khabab Akhtar"/><br>
+          <sub><b>Khabab Akhtar</b></sub>
         </a>
       </td>
       <td>
         <a href="https://github.com/abdullahxyz85">
           <img src="https://avatars.githubusercontent.com/u/181183976?v=4" width="100" alt="Abdullah Jameel"/><br>
-          <sub><b>Abdullah Jameel</b></sub>
+          <sub><b>Abdullah Jameel</b></sub>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ayushkashyap402">
+          <img src="https://avatars.githubusercontent.com/u/161109248?v=4" width="100" alt="Ayush Kashyap"/><br>
+          <sub><b>Ayush Kashyap</b></sub>
         </a>
       </td>
     </tr>
@@ -34,5 +34,6 @@
 </div>
 
 <div align='center'>
+
 
 
