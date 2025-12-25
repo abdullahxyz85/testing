@@ -1,6 +1,6 @@
 <img width="3229" height="154" alt="Machine Learning - Basics to Advance - 22nd December 2024" src="https://github.com/user-attachments/assets/ed31d01c-3d79-41aa-8975-2f54832c9274" />
 <!--![](https://github.com/user-attachments/assets/d90430cb-f295-4424-bafd-5bd7d37aba42)-->
-
+---
 <hr>
 <!--
 <div align='center'>
@@ -658,3 +658,4 @@ By the end of this course, you will be able to:
   <p><b>Happy Learning! 🚀</b></p>
   <p>Follow us on social media for updates and resources</p>
 </div>
+
