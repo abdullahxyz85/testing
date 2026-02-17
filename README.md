@@ -1,3 +1,24 @@
+- **@[Lead with AI Agent Hackathon 2025](https://www.linkedin.com/posts/abdullahjameel94_leadwithaiagents-leadwithaiagents-aihackathon-activity-7358786168097775616-Hq2j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)** — Secured **3rd Place** (Team Mavericks) in a 72-hour GENAI.works hackathon among 3000+ participants. [Certificate](https://github.com/user-attachments/assets/8d9f5592-4844-44d1-9caf-416396d05a90)
+- **@[NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/)** — Participated with **Team Astra Innovators**; project selected globally. **[Certificate](https://drive.google.com/file/d/1Cste_IsoN-QmcDNytaILPISlch_AUz-e/view?usp=sharing)** | **[Project Demo](https://organism-centric-navigator.vercel.app/)**
+- **@[Stanford Code in Place 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316881832187219968/)** — Selected **Section Leader** among ~1400 worldwide.
+- **@[Contribution at Stanford Code in Place '25](https://www.linkedin.com/feed/update/urn:li:activity:7339589406451814400/)** — Delivered **250+ TeachNow sessions** to international students.
+- **@[Superstar Section Leader](https://www.linkedin.com/posts/icode-guru_icodeguru-stanfordcodeinplace-icodeguru-activity-7342874990905561088-zexO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)** — Ranked **Top 9 globally** among Code in Place Section Leaders.
+- **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/6bb8d938-6d20-4f87-a3b9-273e32d3afea.png?size=letter)** — Solved **9/9 puzzles** with team **@[Logic Legends](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**.
+- **@[GitHub](https://github.com/abdullahxyz85)** — Sharing daily **DSA practice and projects**.
+- **@[Open Source Contribution Badge](https://www.holopin.io/userbadge/cmdc01of4299707l1rt1fvvxb)** — Earned first open-source contribution badge.
+- **@[LeetCode](https://leetcode.com/u/abdullahxyz85/)** — Solved **[190+ DSA problems](https://github.com/abdullahxyz85/Daily_Leetcoding)**.
+- **@[lablab.ai](https://lablab.ai/u/@AbdullahBhatti308)** — Competed in multiple **international AI hackathons**.
+- **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)** — Ranked **128 globally** (Beginner Round).
+- **@[Advent of Code](https://adventofcode.com/)** — Completed all **25 days** of coding challenges.
+- **@[Section Leader at Code in Place](https://codeinplace.stanford.edu/)** — Selected to teach Python to global learners.
+- **@[Typing Speed](https://www.linkedin.com/posts/abdullahjameel94_typingjourney-consistency-discipline-activity-7316542143076986880-KF-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)** — **100+ WPM** typing speed.
+
+
+
+
+
+
+
 <img width="3229" height="154" alt="Machine Learning - Basics to Advance - 22nd December 2024" src="https://github.com/user-attachments/assets/ed31d01c-3d79-41aa-8975-2f54832c9274" />
 <!--![](https://github.com/user-attachments/assets/d90430cb-f295-4424-bafd-5bd7d37aba42)-->
 ---
@@ -658,4 +679,5 @@ By the end of this course, you will be able to:
   <p><b>Happy Learning! 🚀</b></p>
   <p>Follow us on social media for updates and resources</p>
 </div>
+
 
